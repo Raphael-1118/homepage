@@ -1,4 +1,4 @@
-console.log("Hello everyone!!!");
+console.log("Hello everyone!!! Ten kod jest już w repozytorim Git");
 
 let formElement = document.querySelector(".js-form");
 let currencyElement = document.querySelector(".js-currency");
