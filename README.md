@@ -1,7 +1,7 @@
 # Curency Conventer
 
 ## Demo
-(https://github.com/Raphael-1118/homepage.git)
+(https://raphael-1118.github.io/homepage/)
 
 ## Description
 This is a simple currency converter. Enter PLN value to convert to EUR, USD, CHF and GBP values. 
