@@ -10,5 +10,3 @@ This is a simple currency converter. Enter PLN value to convert to EUR, USD, CHF
 - HTML
 - CSS
 - Java Script
-- Normalize
-- BEM
